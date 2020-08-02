@@ -49,3 +49,4 @@ while continue_loop:
         continue_loop = False
     else:
         print "Invalid choice"
+        print "New line"
